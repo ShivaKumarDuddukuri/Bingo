@@ -1,4 +1,4 @@
-package com.progress.bingo.search;
+package com.shiva.bingo.search;
 
 /**
  * Created by shivad on 14/6/17.

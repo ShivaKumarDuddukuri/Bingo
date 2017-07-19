@@ -1,4 +1,4 @@
-package com.progress.bingo.exception;
+package com.shiva.bingo.exception;
 
 /**
  * Created by shivad on 14/6/17.

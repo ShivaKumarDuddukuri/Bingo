@@ -1,7 +1,7 @@
-package com.progress.bingo.util;
+package com.shiva.bingo.util;
 
-import com.progress.bingo.models.BingoCard;
-import com.progress.bingo.models.BingoGameInput;
+import com.shiva.bingo.models.BingoCard;
+import com.shiva.bingo.models.BingoGameInput;
 
 import java.io.BufferedReader;
 import java.io.IOException;

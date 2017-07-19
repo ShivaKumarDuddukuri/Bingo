@@ -1,4 +1,4 @@
-    package com.progress.bingo.main;
+package com.shiva.bingo.main;
 
 import com.progress.bingo.models.BingoGameInput;
 import com.progress.bingo.models.BingoPlayer;

@@ -1,4 +1,4 @@
-package com.progress.bingo.models;
+package com.shiva.bingo.models;
 
 import java.util.LinkedList;
 import java.util.List;

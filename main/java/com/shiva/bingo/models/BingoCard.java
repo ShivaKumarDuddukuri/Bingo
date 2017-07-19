@@ -1,4 +1,4 @@
-package com.progress.bingo.models;
+package com.shiva.bingo.models;
 
 /**
  * Created by shivad on 14/6/17.

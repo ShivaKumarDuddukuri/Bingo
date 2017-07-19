@@ -1,4 +1,4 @@
-package com.progress.bingo.scanner;
+package com.shiva.bingo.scanner;
 
 /**
  * Created by shivad on 14/6/17.

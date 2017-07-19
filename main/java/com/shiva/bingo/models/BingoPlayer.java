@@ -1,8 +1,8 @@
-package com.progress.bingo.models;
+package com.shiva.bingo.models;
 
-import com.progress.bingo.exception.BingoException;
-import com.progress.bingo.scanner.BingoScanner;
-import com.progress.bingo.search.RowWiseSearch;
+import com.shiva.bingo.exception.BingoException;
+import com.shiva.bingo.scanner.BingoScanner;
+import com.shiva.bingo.search.RowWiseSearch;
 
 import java.util.List;
 
